@@ -13,3 +13,11 @@ main {
 #reset {
   margin: 20px;
 }
+
+#wrong-low {
+  color:red;
+}
+
+#wrong-high {
+  color:red;
+}
